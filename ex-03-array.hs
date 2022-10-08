@@ -1,4 +1,4 @@
-module Exer03Prob where
+module Exeri03Prob where
 
 -- Slide questions:
 -- Consider a function safetail that behaves in the
